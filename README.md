@@ -1,6 +1,6 @@
 # 🎙️ Voice Scroll
 
-**A bootstrapped teleprompter system for solo creators who can't walk and talk at the same time.**
+**A teleprompter system for solo creators who can't walk and talk at the same time.**
 
 Most auto-cue apps are expensive and terrible at understanding accents (especially Australian ones). Voice Scroll is a lightweight, open-source solution that uses speech recognition to scroll your script automatically as you speak, matching your natural pacing.
 
