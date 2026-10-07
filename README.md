@@ -19,6 +19,7 @@ Most auto-cue apps are expensive and terrible at understanding accents (especial
 1.  **Clone the repo:**
     ```bash
     git clone https://github.com/sgardoll/voiceScroll.git
+    cd voiceScroll
     ```
 2.  **Install dependencies:**
     ```bash
